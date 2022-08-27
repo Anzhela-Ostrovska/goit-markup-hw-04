@@ -234,9 +234,7 @@ body {
   display: flex;
   gap: 30px;
 }
-.features-item {
-  width: 270px;
-}
+
 .features-label {
   display: flex;
   height: 120px;
